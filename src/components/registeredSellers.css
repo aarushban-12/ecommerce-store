@@ -1,0 +1,13 @@
+.seller-card {
+    border-radius: 1rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .seller-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .rating {
+    font-weight: 500;
+    margin-top: 10px;
+  }
